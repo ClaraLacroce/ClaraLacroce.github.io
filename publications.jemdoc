@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Clara Lacroce
+
+~~~
+{}{img_left}{img/20181014_125119_HDR-02-02-01.jpeg}{Profile picture}{255}{180}{}
+PhD student,\n [https://rl.cs.mcgill.ca Reasoning and Learning Lab], [https://mila.quebec/ Mila], \n[https://www.cs.mcgill.ca/ School of Computer Science, McGill University], []\n
+E-mail: clara.lacroce@mail.mcgill.ca\n
+~~~
+
+== Publications
+*corresponding author. Authors are listed in alphabetical order
+
+- Balle B., *Lacroce C.*\*, Panangaden P., Precup D., Rabusseau G. "Optimal Spectral-Norm Approximate Minimization of Weighted Finite Automata", ICALP 2021, 48th International Colloquium on Automata, Languages, and Programming \n
+\[[https://arxiv.org/abs/2102.06860 paper]\] \n
+- *Lacroce C.*\*, Panangaden P., Rabusseau G. "Extracting Weighted Automata for Approximate Minimization in Language Modelling", ICGI 2020-2021\n
+\[[https://arxiv.org/abs/2106.02965 paper]\] \n
+- *Lacroce C.*\* "Deformations of Galois Representations", (Master Thesis)\n
+\[[https://www.math.u-bordeaux.fr/~ybilu/algant/documents/theses/Lacroce.pdf thesis]\] \n

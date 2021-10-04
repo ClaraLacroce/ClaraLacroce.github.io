@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Clara Lacroce
+
+~~~
+{}{img_left}{img/20181014_125119_HDR-02-02-01.jpeg}{Profile picture}{255}{180}{}
+PhD student,\n [https://rl.cs.mcgill.ca Reasoning and Learning Lab], [https://mila.quebec/ Mila], \n[https://www.cs.mcgill.ca/ School of Computer Science, McGill University], []\n
+E-mail: clara.lacroce@mail.mcgill.ca\n
+~~~
+
+== About me
+I am a final year PhD student at McGill University and Mila. 
+I am working to develop provable approximation algorithms for 
+black boxes trained for language modelling on sequential data.
+To make those models more interpretable, 
+I use tools from functional analysis, dynamical systems and control theory.
+
+Before that I studied in the ALGANT double degree Erasmus Mundus
+program, a two years double degree program in pure mathematics. 
+I obtained a master in math from Concordia University, and one 
+from University of Padova, specializing in algebra, geometry and number
+theory.
+
+[static/cv_long.pdf A brief cv (last updated: 2021\/10\/03)].
+
+This website was created using [http://jemdoc.jaboc.net/ Jemdoc].
